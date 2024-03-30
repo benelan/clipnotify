@@ -24,4 +24,4 @@ their sanity to bring us xclip/xsel/etc. Use one of those tools to complement
 clipnotify.
 
 You can choose a particular selection with `-s`, and loop instead of exiting
-with `-l`. See `clipmenu -h` for more information.
+with `-l`. See `clipmenu --help` for more information.
